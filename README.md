@@ -1,4 +1,4 @@
-### Hello! Eu sou a Evellyn, estudante de Ciência da Computação.
+### Hi, eu sou a Evellyn, estudante de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/Evellyn-Pereira">
