@@ -1,4 +1,4 @@
-### Hi, sou a Eve, estudante de Ciência da Computação.
+### Hi!
 
 <div align="center">
   <a href="https://github.com/Evellyn-Pereira">
